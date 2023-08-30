@@ -6,14 +6,15 @@
   "dependencies": {
     "js-tokens": "^4.0.0",
     "live-server": "^1.1.0",
+    "lodash": "^4.17.21",
     "loose-envify": "^1.4.0",
     "node": "^20.5.1",
-    "npm": "^9.8.1"
+    "npm": "^9.8.1",
+    "react": "^18.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "NN",
-  "license": "ISC",
-  "devDependencies": {}
+  "license": "ISC"
 }
