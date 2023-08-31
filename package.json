@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NyxN1N9/background-generator.git"
+  },
+  "author": "NN",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NyxN1N9/background-generator/issues"
+  }, 
+  "homepage": "https://github.com/NyxN1N9/background-generator#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+      "lodash": "^4.17.21"
   }
 }
