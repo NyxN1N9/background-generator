@@ -18,6 +18,7 @@
   "homepage": "https://github.com/NyxN1N9/background-generator#readme",
   "dependencies": {
     "live-server": "^1.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "npm": "^10.1.0"
   }
 }
